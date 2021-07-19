@@ -1,0 +1,35 @@
+﻿Joselyn Guaman 
+07/09/21
+
+
+* When a person types a letter on a keyboard to output on a computer screen what it is actually happening is that a serious of program are running to figure out the letter that is being typed and figure out that out of the many lines and circles, which are essentially the figures, which is the right one to show on the screen. And it does this in a matter of milliseconds that we don’t even think about it.
+
+
+* Computers use input and output in order to create experiences for the user by allowing the user to enter information, then using the information the user entered and processing it to then yield the information the user was asking for. 
+
+
+* Software products are essentially “infinitely reproducible nothings” because they are able to be copied and used in different manners that have no end. A code can be copied and you make a small change and suddenly it is a whole different software. Also, as long as the person creating the software knows what they are doing and how, they can create the same thing in a different manner. 
+
+
+* The way that code becomes software is essentially all the same. There is code in all technology we use. You write a list of instructions or tasks for a device to do and once you run it the computer sees if it understands the set of instructions you wrote and then you can see if it works or not. 
+
+
+* Algorithms are a set of instructions that can be put in an order to create useful information; they can look like graphs and have different paths depending on the instruction given. 
+
+
+* The DRY principle stands for “Don’t Repeat Yourself”, which is essentially saying to do things only one time so that you do not have to do extra work that is not required, and make the computer do the work instead. 
+
+
+* Object-oriented programming allows programs to have an organizational method that is accessible and easy to find/use for their own coding. They would not necessarily have to re-code everything but simply call the file they created and use it without the need to do it all over again and can be used more than once. 
+
+
+* Data is the information intake from users and can even be the code itself. Programmers constantly create data when they are coding which is to be stored in some sort of device to run. We are constantly creating new data, which in turn we have to create more programs to store that data. 
+
+
+* Frameworks in programming are essentially platforms for programmers to create software that is not from scratch. Meaning that these platforms have information already that can be used. There are frameworks for all types of softwares for example web applications and graphical applications. 
+
+
+* Debugging is when a code has some kind of error and the programmers have to find it and/or find a way to fix it. Programmers have to always have in mind always, ways to fix a code and assume the computer does not know the instructions given.
+
+
+* I want to learn code because it is everywhere we go and in many if not most things we use. I want to be able to understand it and use it to the best of my abilities and create something that benefits those who truly need it. I believe many times people create software to solve things that are not even a problem but as a consequence of creating that program, there comes the problems. I think there should be a balance of problem solving and making life easier in a way that does not create even more problems for society. Programming is so complex but at the same time knowing that it will create the output you want at the end can be so satisfying and of course beneficial. Additionally, I also find it interesting and fun!
