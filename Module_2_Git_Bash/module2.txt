@@ -1,0 +1,10 @@
+﻿Joselyn Guaman
+
+
+1. Git is a version control system that allows users to work on your programming and keeps track of all your work; additionally, it  has its branching model which allows users to create branches in the code where it allows you to create new ideas or make changes without editing the original file. Git is different than GitHub because for one git is on your local system while GitHub is online. Furthermore, GitHub allows you to manage Git repositories, which helps us better control them. Plus, Github allows for collaboration with other programmers to happen. 
+
+
+2. Using a terminal is more beneficial because it helps programmers accomplish task more efficiently as compared to using GUIs. Moreover, as a programmer uses the terminal more it becomes easier and faster to accomplish those tasks. 
+
+
+3. Three of the benefits of using version control systems is that: one, you get the whole history of changes made to any and every file, which helps a lot when there is a bug on your program and you are trying to figure out what the problem is. Two, it allows for branching which not only helps people to work on a program at the same time but also individually a person can benefit from having different streams where they can see the changes made. And lastly, version control allows for merging which if you know you changes or additions to the program are good then you can bring it all together.
